@@ -1,0 +1,9 @@
+{
+  "extends": "next",
+  "rules": {
+    "no-var": "error",  /* varを未使用 */
+    "no-console": "off",
+    "no-extra-semi": "warn", /* 不要なセミコロンを探す */
+    "no-undef": "warn"
+  }  
+}

@@ -25,7 +25,9 @@ Next.js 11 + ESLint
 yarn dev
 
 ***
-### Related:
+### Blog:
+
+https://zenn.dev/knaka0209/articles/53a679da7ba502
 
 ***
 
